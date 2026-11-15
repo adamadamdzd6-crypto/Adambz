@@ -1,0 +1,6 @@
+{
+  "name": "CinePrompt Studio",
+  "description": "Transform text descriptions into multi-scene AI videos with generated storyboards, AI keyframe visuals, camera motion effects, subtitles, and on-device MP4 rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CinePrompt</string>
+    <string name="nav_studio">الاستوديو</string>
+    <string name="nav_3d_stage">عرض 3D</string>
+    <string name="nav_models">النماذج</string>
+    <string name="three_d_topbar_subtitle">3D Rendering Surface Viewport</string>
+    <string name="three_d_surface_title">3D Rendering Surface Placeholder</string>
+    <string name="three_d_surface_subtitle">Processed 3D models and character meshes from the AI pipeline will be rendered here.</string>
+    <string name="three_d_surface_gl_ready">OpenGL ES 2.0 Surface</string>
+    <string name="three_d_placeholder_badge">Placeholder Mesh</string>
+    <string name="three_d_processed_models_title">Processed Models Queue</string>
+    <string name="three_d_empty_models_title">No processed 3D models loaded yet</string>
+    <string name="three_d_empty_models_tip">Generate a character or scene in the Studio tab, or import a local model to inspect it inside this 3D surface.</string>
+    <string name="three_d_go_to_studio">Open Studio</string>
+    <string name="three_d_shape_cube">Cube</string>
+    <string name="three_d_shape_crystal">Crystal</string>
+    <string name="three_d_shape_rig">Character Rig</string>
+    <string name="three_d_cd_auto_rotate">Toggle Auto Rotate</string>
+    <string name="three_d_cd_grid">Toggle Reference Grid and Axes</string>
+    <string name="three_d_cd_wireframe">Toggle Wireframe Mode</string>
+    <string name="three_d_cd_zoom_in">Zoom In Camera</string>
+    <string name="three_d_cd_zoom_out">Zoom Out Camera</string>
+    <string name="three_d_cd_reset_camera">Reset 3D Camera</string>
+</resources>
